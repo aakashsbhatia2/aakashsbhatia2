@@ -1,5 +1,7 @@
 ## Hello 🌏
 
+I am a Full Stack Engineer from 🇮🇳 Mumbai, India currently living and working in 🇺🇸 Tallahassee, FL, USA.
+
 <!--
 **aakashsbhatia2/aakashsbhatia2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
