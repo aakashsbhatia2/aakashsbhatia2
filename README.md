@@ -1,6 +1,6 @@
 ## Hello 🌏
 
-I am a Full Stack Engineer with 4+ years of professional software development experience. I am currently based in 🇺🇸 Tallahassee, FL, USA.
+I am a Full Stack Engineer with 4+ years of professional software development experience. I am currently based in Tallahassee, FL, USA.
 
 ### Technologies I frequently use
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
