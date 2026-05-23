@@ -2,7 +2,7 @@
 
 I'm currently a Full Stack Software Engineer at [Homesome, Inc.](https://homesome.com), where we build all sorts of cool things for our AI-first grocery commerce platform.
 
-I love building full-stack applications. Over time, I’ve realized I want to spend more of my free time helping democratize technology and contributing to open source - so you'll often find me here tinkering with tools, ideas, and projects that I hope others can benefit from.
+I love building full-stack applications. Over time, I’ve realized I want to spend more of my free time helping democratize technology and contributing to open source - so you'll often find me here exploring tools, ideas, and projects that I hope others can benefit from.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/aakashsbhatia/)!
 
